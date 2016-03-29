@@ -1,0 +1,10 @@
+{
+  "name": "loki-cordova-fs-adapter",
+  "version": "1.0.0",
+  "author": {
+    "name": "Corentin Smith",
+    "url": "https://github.com/cosmith"
+  },
+  "main": "bin/loki-cordova-fs-adapter.js",
+  "repository": "sh://git@github.com:cosmith/loki-cordova-fs-adapter.git"
+}
