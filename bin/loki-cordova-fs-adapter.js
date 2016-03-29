@@ -149,4 +149,4 @@ var LokiCordovaFSAdapter = (function () {
 })();
 
 // Uncomment this next line to be able to do `var LokiCordovaFSAdapter = require("./loki-cordova-fs-adapter")`
-//module.exports = LokiCordovaFSAdapter;
+module.exports = LokiCordovaFSAdapter;
